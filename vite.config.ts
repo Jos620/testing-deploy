@@ -146,4 +146,6 @@ export default defineConfig({
       inline: ['@vue', '@vueuse', 'vue-demi'],
     },
   },
+
+  base: '/testing-deploy/',
 })
