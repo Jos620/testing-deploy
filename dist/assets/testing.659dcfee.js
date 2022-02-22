@@ -1,0 +1,1 @@
+import{q as o,o as s,g as a,h as e}from"./vendor.77e3983c.js";const c={class:"prose prose-sm m-auto text-left"},n=e("h1",null,"Hey, can you see me?",-1),r=e("p",null,"Hope you can",-1),_=[n,r],i=[],f={setup(m,{expose:t}){return t({frontmatter:{meta:[]}}),o({meta:[]}),(p,u)=>(s(),a("div",c,_))}};export{f as default,i as meta};
